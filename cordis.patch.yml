@@ -1,0 +1,6 @@
+# cordis.patch.yml —— 按包名引用，让 Node 解析已安装代码
+- insert:
+    - id: dsh-agnes-image
+      name: /home/lc/dsh-agnes/index.ts
+      
+      
